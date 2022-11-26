@@ -28,10 +28,11 @@ public class prog4
 
     public static void main(String[] args)
     {
-        // Need an Object to access this methods from same class
         // Object is Created
         prog4 myObj = new prog4();
 
+
+        // Need an Object to access this methods from same class
         myObj.function1();
         myObj.function2();
 
